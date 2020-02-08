@@ -2,3 +2,29 @@ body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing: grayscale}
 a.outerlink{text-decoration:none}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
+.para5{font-size: 0; text-align:left; margin-top:0px; margin-bottom:11px;}
+.Style6{font-family:  'ThatsFontFolksItalic', 'That's Font Folks!' ;
+ font-size: 48px; 
+ color: #FEFEFE;
+ word-wrap: break-word;}
+.para7{font-size: 0; text-align:center; margin-top:0px; margin-bottom:0px;}
+.Style8{font-family:  'ThatsFontFolksItalic', 'That's Font Folks!' ;
+ font-size: 24px; 
+ font-style: italic;
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.Style9{font-family:  'ThatsFontFolksItalic', 'That's Font Folks!' ;
+ font-size: 18px; 
+ font-style: italic;
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.Style10{font-family:  'HelveticaNeue-Bold', 'Helvetica Neue' ,'Arial' ,sans-serif ;
+ font-size: 12px; 
+ font-weight:700; 
+ color: #FCEB39;
+ word-wrap: break-word;}
+.Style11{font-family:  'HelveticaNeue-Bold', 'Helvetica Neue' ,'Arial' ,sans-serif ;
+ font-size: 13px; 
+ font-weight:700; 
+ color: #FCEC39;
+ word-wrap: break-word;}
